@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+<style>
+
+body {
+background-image: url('https://th.bing.com/th/id/R.be77a0a6f13e7d09c91f62efc9712cc8?rik=AKqqhK4SFYxKnw&pid=ImgRaw&r=0');
+background-repeat: no-repeat;
+background-size: 1500px;
+
+}
+.welcome {
+    text-align: center;
+    color:white;
+    font-size: 100px;
+    font-weight: bold;
+    background-image: url('https://th.bing.com/th/id/R.62c8c4eebb0492ea7c28e6ada4e19d72?rik=56HrzcMrXMBVsw&riu=http%3a%2f%2fstatic1.squarespace.com%2fstatic%2f5a12ed70cf81e08b62ab9795%2ft%2f62293a7ec4e6906687db31e5%2f1646869118595%2fBANK-TECH-Digital.jpeg%3fformat%3d1500w&ehk=l12KI%2bCAdfe8NkbIa%2b9YT8PZcf1cBUIVOFMiqsCA9bw%3d&risl=&pid=ImgRaw&r=0');
+}
+    .enter{
+    margin-top: 100px;
+    margin-left: 650px;
+    color:white;
+}
+
+.bt {
+    background-color: transparent;
+    color:white;
+    border: 1px;
+
+}.pass{
+    background-color: transparent;
+    color:white;
+    border: 1px;
+}
+
+.password
+{
+    margin-left: 651px;
+    margin-top: 10px;
+    color:aliceblue;
+    margin-right: 10px;
+}
+
+.sign {
+    margin-left: 770px;
+    margin-top: 30px;
+    padding-top:9px;
+    padding-bottom: 9px;
+    background-color:orange;
+
+}
+.sign:hover{
+    background-color: red;
+}
+.forgot{
+    margin-left: 700px;
+    margin-top:10px;
+    color:yellow;
+}
+
+.signup{
+    color:red;
+}
+.contact{
+margin-left: 600px;
+margin-top: 200px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 20px;
+background-color: yellow;
+
+}
+.about{
+    margin-top: 200px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 20px;
+background-image: url('https://th.bing.com/th/id/R.62c8c4eebb0492ea7c28e6ada4e19d72?rik=56HrzcMrXMBVsw&riu=http%3a%2f%2fstatic1.squarespace.com%2fstatic%2f5a12ed70cf81e08b62ab9795%2ft%2f62293a7ec4e6906687db31e5%2f1646869118595%2fBANK-TECH-Digital.jpeg%3fformat%3d1500w&ehk=l12KI%2bCAdfe8NkbIa%2b9YT8PZcf1cBUIVOFMiqsCA9bw%3d&risl=&pid=ImgRaw&r=0');
+color:white;
+}
+
+.products{
+
+    margin-top: 200px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 20px;
+}
+
+.earn{
+    margin-top: 200px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 20px;
+background-color: red;
+bac
+
+}
+
+.contact: hover{
+
+    background-color: red;
+    cursor: pointer;
+    color:white;
+    filter:blur(1px);
+}
+.about:hover{
+    background-color: yellow;
+    cursor: pointer;
+    color:whitesmoke;
+
+
+}
+.products:hover{
+cursor: pointer;
+    background-color:blue;
+}
+.earn:hover{
+    background-color: green;
+    cursor: pointer;
+
+}
+.liv{
+margin-left: 70px;
+margin-top: 50px;
+
+
+}
+
+</style>
+
+<body>
+<script>
+
+   /* alert('WELCOME TO TECH HUB')
+    alert('Tap ok to continue')*/
+</script>
+
+
+<div class="welcome">Welcome To TechHub!</div>
+
+
+<div class="liv"><a href="http://twitter.com/justalfcfan1   "><img  src="./whatts.jpg" width="150px"  height="150px"></a> </div>
+
+
+<div class="enter"><button class="bt">USERNAME</button><input type="text" placeholder="Enter username"></div>
+<div class="password"><button class="pass">PASSWORD</button><input type="password" placeholder="Password"></div>
+<button class="sign">SIGN IN</button>
+<div class="forgot">Forgot password?<span class="signup"><u>Sign up</u></span></div>
+<button class="contact">CONTACT US</button>
+<button class="about">ABOUT</button>
+<button class="products">PRODUCTS</button>
+<button class="earn">EARN</button>
+
+</body>
+
+
+
+
+
+
+</html>
